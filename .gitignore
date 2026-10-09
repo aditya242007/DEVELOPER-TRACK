@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Generated output
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Logs
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
